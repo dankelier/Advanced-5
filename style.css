@@ -1,5 +1,5 @@
 h1 {
-    background-color:aqua;
+    background-color:red;
     text-align:center;
     font-style: italic;
 }
@@ -9,13 +9,13 @@ h1 {
 .hidden {
     visibility: hidden;
 }
-.op_1 {
+.opc_1 {
     opacity: 1;
 }
-.op_05 {
+.opc_05 {
     opacity: 0.5;
 }
-.op_0 {
+.opc_0 {
     opacity: 0;
 }
 .none {
